@@ -12,11 +12,11 @@ gem 'seo_robots'
 
 And then execute
 
-  $ bundle
+    $ bundle
 
 Or install it yourself as :
 
-  $ gem install seo_robots
+    $ gem install seo_robots
 
 ## Getting started
 
